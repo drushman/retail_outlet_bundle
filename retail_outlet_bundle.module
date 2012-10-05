@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the retail_outlet_bundle feature.
+ */
+
+include_once 'retail_outlet_bundle.features.inc';
